@@ -1,0 +1,3 @@
+cabal install Histogram statistics
+
+sudo pacman -S gnuplot
